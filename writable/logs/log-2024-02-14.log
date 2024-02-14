@@ -1,0 +1,1754 @@
+CRITICAL - 2024-02-14 03:30:22 --> ArgumentCountError: Too few arguments to function App\Controllers\AdminHome::edithome(), 0 passed in C:\xampp\htdocs\creativehomes\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\AdminHome.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:30:24 --> ArgumentCountError: Too few arguments to function App\Controllers\AdminHome::edithome(), 0 passed in C:\xampp\htdocs\creativehomes\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\AdminHome.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:30:24 --> ArgumentCountError: Too few arguments to function App\Controllers\AdminHome::edithome(), 0 passed in C:\xampp\htdocs\creativehomes\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\AdminHome.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:30:24 --> ArgumentCountError: Too few arguments to function App\Controllers\AdminHome::edithome(), 0 passed in C:\xampp\htdocs\creativehomes\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\AdminHome.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:32:27 --> ErrorException: Undefined array key "text_1"
+in APPPATH\Views\AdminLTE\edithome.html on line 462.
+ 1 APPPATH\Views\AdminLTE\edithome.html(462): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "text_1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 462)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:32:54 --> ErrorException: Undefined array key "text_1"
+in APPPATH\Views\AdminLTE\edithome.html on line 462.
+ 1 APPPATH\Views\AdminLTE\edithome.html(462): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "text_1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 462)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:35:09 --> ErrorException: Undefined array key "slide_img_1"
+in APPPATH\Views\AdminLTE\edithome.html on line 459.
+ 1 APPPATH\Views\AdminLTE\edithome.html(459): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slide_img_1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 459)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:35:18 --> ErrorException: Undefined array key "slide_img1"
+in APPPATH\Views\AdminLTE\edithome.html on line 459.
+ 1 APPPATH\Views\AdminLTE\edithome.html(459): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slide_img1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 459)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:35:38 --> ErrorException: Undefined array key "slide_img1"
+in APPPATH\Views\AdminLTE\edithome.html on line 459.
+ 1 APPPATH\Views\AdminLTE\edithome.html(459): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slide_img1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 459)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:35:39 --> ErrorException: Undefined array key "slide_img1"
+in APPPATH\Views\AdminLTE\edithome.html on line 459.
+ 1 APPPATH\Views\AdminLTE\edithome.html(459): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slide_img1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 459)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:42:44 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:42:46 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:42:53 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:43:09 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:43:11 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:43:12 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:43:12 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:43:18 --> ParseError: syntax error, unexpected identifier "slider_img1_preview"
+in APPPATH\Views\AdminLTE\edithome.html on line 459.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:44:23 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:44:44 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:44:44 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:44:45 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:44:45 --> ParseError: syntax error, unexpected identifier "id"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:46:10 --> ParseError: syntax error, unexpected identifier "id", expecting "," or ";"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:46:11 --> ParseError: syntax error, unexpected identifier "id", expecting "," or ";"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 03:46:12 --> ParseError: syntax error, unexpected identifier "id", expecting "," or ";"
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 3 APPPATH\Controllers\AdminHome.php(80): view('AdminLTE/edithome.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->edithome('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:05:14 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:05:16 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:05:46 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:05:48 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:05:51 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:06:08 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:06:12 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:06:19 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:06:21 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\AdminHome.php on line 99.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:10:05 --> ParseError: syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\AdminHome.php on line 112.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:10:10 --> ParseError: syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\AdminHome.php on line 112.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminHome.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminHome')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminHome')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminHome', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:09 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:09 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:09 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:24 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:24 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:24 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:32 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:32 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:32 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:32 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:32 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:32 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:33 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:33 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:33 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:35:33 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:35:33 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:35:33 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(98): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->updatehome('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 04:37:03 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 04:37:03 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:37:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 04:37:03 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:03:45 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:04:25 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:37 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:53 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:55 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:55 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:55 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:06:56 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:07:28 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:09:08 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:13:06 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 05:14:40 --> ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/). in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "ab...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "ab...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "ab...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "ab...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\app\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+#7 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+#8 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-14 05:14:40 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 2 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:14:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 4 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:14:40 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 6 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:14:53 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:13 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:14 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:14 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:14 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:23 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:31 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:31 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:32 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:15:48 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:21 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:21 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:22 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:22 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:22 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:34 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:50 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:51 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:16:51 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 05:17:17 --> ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/). in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "ab...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "ab...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "ab...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "ab...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\app\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+#7 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+#8 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-14 05:17:17 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 2 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:17 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 4 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:17 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 6 APPPATH\Controllers\AdminAbout.php(46): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAbout->submitAboutFormData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAbout))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:30 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:30 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:31 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:31 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:31 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:17:53 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:24:56 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:25:26 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:25:36 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:25:46 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:26:21 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:31:05 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->allabout()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:21 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:49 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:50 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:50 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:50 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:32:51 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:33:08 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:36:45 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\About.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about_all()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:42:05 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:42:05 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(10): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:42:39 --> ErrorException: Undefined variable $homes
+in APPPATH\Views\AdminLTE\all_about.html on line 451.
+ 1 APPPATH\Views\AdminLTE\all_about.html(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $homes', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html', 451)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\all_about.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/all_about.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(11): view('AdminLTE/all_about.html')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->all_about()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:42:50 --> ParseError: syntax error, unexpected token ",", expecting ";"
+in APPPATH\Controllers\AdminAboutUs.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\creativehomes\\app\\Controllers\\AdminAboutUs.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminAboutUs')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminAboutUs')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\AdminAboutUs', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 05:45:49 --> ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/). in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "ab...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "ab...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "ab...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "ab...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\app\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+#7 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+#8 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-14 05:45:49 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 2 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:45:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 4 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:45:49 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 6 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 05:45:49 --> ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/). in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "ab...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "ab...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "ab...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "ab...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\app\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+#7 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+#8 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-14 05:45:49 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 2 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:45:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 4 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:45:49 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  null value in column &quot;id&quot; of relation &quot;about&quot; violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, uploads/, uploads/).', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (NULL, NULL, \'uploads/\', \'uploads/\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO "about" ("title", "description", "img4", "img5") VALUES (:title:, :description:, :img4:, :img5:)', [...], false)
+ 6 APPPATH\Controllers\AdminAboutUs.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->submitAboutFormData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:46:15 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 APPPATH\Views\AdminLTE\edithome.html(449): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 449)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(61): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->editabout('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-14 05:46:27 --> ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^ in C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php:187
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\creativehomes\system\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" S...')
+#2 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" S...')
+#3 C:\xampp\htdocs\creativehomes\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" S...')
+#4 C:\xampp\htdocs\creativehomes\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" S...', Array, false)
+#5 C:\xampp\htdocs\creativehomes\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\xampp\htdocs\creativehomes\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#7 C:\xampp\htdocs\creativehomes\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#8 C:\xampp\htdocs\creativehomes\app\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', Array)
+#9 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+#10 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+#11 C:\xampp\htdocs\creativehomes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\creativehomes\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-02-14 05:46:27 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:46:27 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 192.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:46:27 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 187.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  column &quot;text_1&quot; of relation &quot;home&quot; does not exist
+LINE 1: UPDATE &quot;home&quot; SET &quot;text_1&quot; = NULL, &quot;text_2&quot; = NULL, &quot;text_3&quot;...
+                          ^', 'C:\\xampp\\htdocs\\creativehomes\\system\\Database\\Postgre\\Connection.php', 187)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(187): pg_query(Object(PgSql\Connection), 'UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\Postgre\Connection->execute('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE "home" SET "text_1" = NULL, "text_2" = NULL, "text_3" = NULL, "slider_img_1" = NULL, "slider_img_2" = NULL, "slider_img_3" = NULL, "title" = NULL, "description" = NULL
+WHERE "home"."id" IN (\'1\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE "home" SET "text_1" = :text_1:, "text_2" = :text_2:, "text_3" = :text_3:, "slider_img_1" = :slider_img_1:, "slider_img_2" = :slider_img_2:, "slider_img_3" = :slider_img_3:, "title" = :title:, "description" = :description:
+WHERE "home"."id" IN :home.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 7 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 8 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 9 APPPATH\Controllers\AdminHome.php(99): CodeIgniter\Model->update('1', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminHome->update('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:46:43 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\AdminLTE\edithome.html on line 449.
+ 1 APPPATH\Views\AdminLTE\edithome.html(449): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 449)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(61): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->editabout('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:47:53 --> ErrorException: Undefined array key "slider_img1"
+in APPPATH\Views\AdminLTE\edithome.html on line 460.
+ 1 APPPATH\Views\AdminLTE\edithome.html(460): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slider_img1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 460)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(61): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->editabout('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 05:49:50 --> ErrorException: Undefined array key "slider_img1"
+in APPPATH\Views\AdminLTE\edithome.html on line 460.
+ 1 APPPATH\Views\AdminLTE\edithome.html(460): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slider_img1"', 'C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html', 460)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\creativehomes\\app\\Views\\AdminLTE\\edithome.html')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('AdminLTE/edithome.html', [], true)
+ 5 APPPATH\Controllers\AdminAboutUs.php(61): view('AdminLTE/edithome.html', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AdminAboutUs->editabout('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminAboutUs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-14 06:09:08 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\creativehomes\about.html on line 517.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('creativehomes/about.html', [], true)
+ 3 APPPATH\Controllers\About.php(13): view('creativehomes/about.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\About->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
